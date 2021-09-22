@@ -2,6 +2,4 @@
 
 # Bitcoin Ticker 🤑
 
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/bitcoin-flutter-demo.gif)
-
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
+![Screenshot_1632323245](https://user-images.githubusercontent.com/77194490/134370098-eef3531e-d380-40ba-85ac-17bd79322ce4.png)
